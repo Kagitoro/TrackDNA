@@ -1,0 +1,8 @@
+git rm -r --cached apps/web/.next
+git rm -r --cached apps/api/app/__pycache__
+git rm -r --cached apps/api/app/api/__pycache__
+git rm -r --cached apps/api/app/models/__pycache__
+git rm -r --cached apps/api/app/schemas/__pycache__
+git rm -r --cached apps/api/app/services/__pycache__
+git rm -r --cached apps/api/tests/__pycache__
+git rm --cached apps/web/tsconfig.tsbuildinfo
