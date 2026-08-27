@@ -1,6 +1,0 @@
-{
-  "/page": "app/page.js",
-  "/discover/page": "app/discover/page.js",
-  "/drop/[id]/page": "app/drop/[id]/page.js",
-  "/api/tracks/import/route": "app/api/tracks/import/route.js"
-}
